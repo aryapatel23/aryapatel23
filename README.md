@@ -566,10 +566,11 @@ Whether you have an exciting project, job opportunity, or just want to connect, 
 <br/><br/>
 
 <!-- GitHub Activity Snake -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-<!-- Alternative: Animated Wave Separator (Always works) -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryapatel23/aryapatel23/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryapatel23/aryapatel23/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aryapatel23/aryapatel23/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 <br/>
 
