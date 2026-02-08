@@ -173,20 +173,18 @@ console.log("Let's build something amazing together! 🚀");
 
 <div align="center">
 
-<!-- Stats Cards in Table -->
-<table border="0" align="center">
-<tr border="0">
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryapatel23&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-</td>
-<td width="50%" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryapatel23&theme=radical&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7&sideLabels=00C7B7&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
+<!-- GitHub Stats using alternative providers -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryapatel23&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryapatel23&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF"/>
+</p>
 
-<!-- Top Languages & Activity Graph -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryapatel23&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF&langs_count=12&hide=jupyter%20notebook&card_width=800" alt="Top Languages" width="70%"/>
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aryapatel23&theme=radical&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7&sideLabels=00C7B7&dates=FFFFFF" alt="GitHub Streak"/>
+</p>
+
+
 
 <br/><br/>
 
@@ -195,8 +193,7 @@ console.log("Let's build something amazing together! 🚀");
 
 <br/><br/>
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=aryapatel23&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage" width="100%" alt="Trophies"/>
+
 
 <br/><br/>
 
