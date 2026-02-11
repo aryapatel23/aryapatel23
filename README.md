@@ -14,7 +14,7 @@
 
 <!-- Dynamic Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%7C+MERN+Expert+%F0%9F%9A%80;Building+Scalable+Web+Applications+%F0%9F%8C%90;AI+Integration+Specialist+%F0%9F%A4%96;11%2B+Production+Projects+Deployed+%E2%9C%85;9.76+CGPA+%7C+Top+Performer+%F0%9F%8E%93;Open+to+Opportunities+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C7B7&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%7C+MERN+Expert+%F0%9F%9A%80;Building+Scalable+Web+Applications+%F0%9F%8C%90;AI+Integration+Specialist+%F0%9F%A4%96;11%2B+Production+Projects+Deployed+%E2%9C%85;9.63+CGPA+%7C+Top+Performer+%F0%9F%8E%93;Open+to+Opportunities+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <!-- Social Badges with Hover Effects -->
@@ -78,7 +78,7 @@ const aryaPatel: Developer = {
   location: "Gujarat, India 🇮🇳",
   education: {
     degree: "B.Tech in Computer Science Engineering",
-    cgpa: 9.76,
+    cgpa: 9.63,
     institution: "Codding Gita"
   },
   
