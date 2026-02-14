@@ -1,10 +1,3 @@
-<!-- 
-  ╔═══════════════════════════════════════════════════════════════╗
-  ║           ARYA PATEL - FULL STACK DEVELOPER                   ║
-  ║        Building the Future, One Commit at a Time              ║
-  ╚═══════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
 <!-- Custom Animated Header -->
